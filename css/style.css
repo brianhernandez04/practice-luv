@@ -36,7 +36,6 @@ body {
         background-repeat: no-repeat;
         background-size: cover;
         background-position: top ;
-        background-position-y: -10rem;
         height: 100vh;
     }
 }
@@ -46,7 +45,6 @@ body {
         background-repeat: no-repeat;
         background-size: cover;
         background-position: top ;
-        background-position-y: -15rem;
         height: 100vh;
     }
 }
